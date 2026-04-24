@@ -1,5 +1,5 @@
 # 仓库说明
-# ros2--zhao-xu-zuo---image
+# ros2-zhao-xu-zuo-image
 
 #### 介绍
 ROS2资料图床 - 用于托管ROS2学习教程和开发资料中的图片资源
